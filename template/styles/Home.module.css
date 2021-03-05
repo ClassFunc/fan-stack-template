@@ -1,0 +1,39 @@
+
+.mainRow {
+    position: relative;
+    min-height: 100vh;
+    max-width: 1920px;
+    margin: auto;
+}
+
+@media (max-width: 768px) {
+    .company {
+        font-size: 15px;
+        line-height: 18px;
+    }
+
+    .info {
+        font-size: 15px;
+        line-height: 18px;
+        text-align: center;
+    }
+}
+
+@media screen and (max-width: 500px) {
+
+    .img {
+        max-width: 60%;
+    }
+
+    .company {
+        font-size: 12px;
+        line-height: 15px;
+    }
+
+    .info {
+        font-size: 12px;
+        line-height: 15px;
+        text-align: center;
+        padding-left: 0;
+    }
+}

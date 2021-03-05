@@ -1,0 +1,21 @@
+{
+  "name": "fan-stack-template",
+  "version": "1.0.0",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "fan-stack",
+    "firebase-antd-nextjs",
+    "template",
+    "classfunc"
+  ],
+  "description": "firebase-antd-nextjs template",
+  "license": "MIT",
+  "engines": {
+    "node": ">=10"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}

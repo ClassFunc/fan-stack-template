@@ -1,0 +1,35 @@
+.AppBar {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background: linear-gradient(138.32deg, #8eac14 17.15%, #f1626a 61.7%, #75bfff 80.79%, #3EB3E6 98.61%);
+}
+
+.image {
+    width: 280px;
+    height: 65px
+}
+
+.title {
+    font-size: 25px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    display: flex;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 0;
+}
+
+@media screen and (max-width: 500px) {
+    .image {
+        width: 160px;
+        height: 40px;
+    }
+
+    .title {
+        font-size: 15px;
+    }
+}
