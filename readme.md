@@ -1,4 +1,6 @@
-## Cách sử dụng
+## Template for [fan-stack](https://github.com/ClassFunc/fan-stack)
+
+## How to use:
 
 1. Mở terminal
 2. Copy đường dẫn tới thư mục project này
